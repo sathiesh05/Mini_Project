@@ -27,4 +27,3 @@ pip install pandas numpy scikit-learn matplotlib
 | Linear Regression | 0.062 | 0.043 | 0.806 | 0.062 |
 | Random Forest | 0.066 | 0.044 | 0.783 | 0.066 |
 | Gradient Boosting | 0.068 | 0.047 | 0.768 | 0.068 |
-|--------|------|-----|-----|---------|
